@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apheus.Addressing", "Apheus.Addressing\Apheus.Addressing.csproj", "{21ABC368-0278-4888-AAE1-2F3A938A44AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21ABC368-0278-4888-AAE1-2F3A938A44AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21ABC368-0278-4888-AAE1-2F3A938A44AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21ABC368-0278-4888-AAE1-2F3A938A44AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21ABC368-0278-4888-AAE1-2F3A938A44AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E158B7E4-004E-414C-ABC8-57D7A1133ABF}
+	EndGlobalSection
+EndGlobal
