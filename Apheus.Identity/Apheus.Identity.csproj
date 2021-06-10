@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MongoDB.Entities" Version="20.7.0" />
+    <Folder Include="Contracts\" />
   </ItemGroup>
 
 </Project>

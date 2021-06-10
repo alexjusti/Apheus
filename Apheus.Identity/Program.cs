@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Apheus.Addressing
+namespace Apheus.Identity
 {
     public class Program
     {
